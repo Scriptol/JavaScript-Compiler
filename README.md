@@ -1,4 +1,4 @@
-# Scriptol to JavaScript compiler - Libs
+# Scriptol to JavaScript compiler - Runtime
 
 Runtime of the Scriptol compiler for JavaScript.
 
