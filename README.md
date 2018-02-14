@@ -7,6 +7,6 @@ Runtime of the Scriptol compiler for JavaScript.
 - scriptolcanvas : interprets a SVG image described as a JS object.
 - svgtojs.sol : converts a SVG drawing to a JS object.
 
-More infos on: http://www.scriptol.org/
+More infos on: https://www.scriptol.com/scriptol/
 
 Demo of svgtojs on scriptol.com/html5/canvas
